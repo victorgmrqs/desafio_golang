@@ -2,12 +2,11 @@
 
 ### Link para acessar a imagem com menos de 2mb
 
-https://hub.docker.com/repository/docker/vgmarques/desafio_golang_imersao13
-
+https://hub.docker.com/repository/docker/vgmarques/fullcycle
 
 ### Comando para o pull
-    docker pull vgmarques/desafio_golang_imersao13:prod
+    docker pull vgmarques/fullcycle
 
 
 ### Comando para o run
-    docker run vgmarques/desafio_golang_imersao13:prod
+    docker run vgmarques/fullcycle
